@@ -1,0 +1,41 @@
+
+body{
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.main_nav__hamburguesa-img{
+	width: 2rem;
+	height: auto;
+	padding: 5px;
+	border: 1px solid #FFFF;
+	border-radius: 3px;
+	display: inline-block;
+	float: right;
+}
+
+.main_nav{
+	background-color: #F8E0E6;
+	padding: 5px;
+}
+
+.main_nav__link{
+	color: #FFFF;
+	text-decoration: none;
+}
+.main_nav__list:hover{
+	background: #FFFF;
+	padding: 10px;
+}
+
+
+.main_nav__list:hover a {
+	color: #F8E0E6;
+
+}
+
+.main_image{
+	background-image: url(images/_MON6745.jpg);
+	width: 100%;
+	height: 100%;
+}
